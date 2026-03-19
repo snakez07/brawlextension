@@ -1,0 +1,5 @@
+Deze extensie verzamelt, bewaart of verzendt geen persoonlijke gegevens.
+
+Alle gegevens die door de extensie worden gebruikt (zoals evaluatieresultaten binnen Smartschool) worden uitsluitend lokaal in de browser verwerkt en niet gedeeld met derden.
+
+De extensie maakt geen gebruik van externe servers, tracking of analytische diensten.
